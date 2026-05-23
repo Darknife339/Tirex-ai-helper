@@ -1,4 +1,3 @@
-```markdown
 # TiRex AI Assistant
 
 The official AI Assistant for the TiRex Discord server, built with Python using the `discord.py` library and integrated with the Google Gemini API (`gemini-flash-lite-latest` model). The bot is designed to assist users with server information, Roblox scripting (Luau), and exploit scene news.
@@ -32,7 +31,7 @@ The following Python libraries are required to run this project:
 You can install the dependencies via pip:
 ```bash
 pip install discord.py google-generativeai psutil
-
+```
 
 ## Setup and Installation
 
@@ -54,5 +53,4 @@ pip install discord.py google-generativeai psutil
 
 ```bash
 python aihelper.py
-
 ```
