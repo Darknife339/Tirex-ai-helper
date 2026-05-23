@@ -9,7 +9,7 @@ import sys
 import os
 from datetime import datetime, timedelta
 #config:
-DISCORD_TOKEN = 'token here
+DISCORD_TOKEN = 'token here`
 ADMIN_ID = 1046003976727973910 <- type here own id for commands like .reset and .blacklist
 GEMINI_KEYS = [
     'AIza key1', 'AIza key2',
@@ -20,7 +20,7 @@ GEMINI_KEYS = [
 ]
 #note: you can delete some keys strings if you want
 AI_ASSISTANT_CHANNEL_ID = channelid with ai
-LOG_CHANNELS = [i forgot why this need, this too]
+LOG_CHANNELS = [channel for liveupdates.txt №1, channel for liveupdates.txt №2]
 BLACKLIST_LOG_CHANNEL_ID = channelid for display blacklisted users
 LIVE_UPDATES_FILE = "live_updates.txt"
 current_key_index = 0
