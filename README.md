@@ -33,7 +33,6 @@ You can install the dependencies via pip:
 ```bash
 pip install discord.py google-generativeai psutil
 
-```
 
 ## Setup and Installation
 
@@ -55,9 +54,5 @@ pip install discord.py google-generativeai psutil
 
 ```bash
 python aihelper.py
-
-```
-
-```
 
 ```
